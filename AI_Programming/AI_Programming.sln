@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Programming", "AI_Programming.csproj", "{32FA6A09-A7B7-571B-0885-28BB75BAD911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FA6A09-A7B7-571B-0885-28BB75BAD911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FA6A09-A7B7-571B-0885-28BB75BAD911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FA6A09-A7B7-571B-0885-28BB75BAD911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FA6A09-A7B7-571B-0885-28BB75BAD911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
