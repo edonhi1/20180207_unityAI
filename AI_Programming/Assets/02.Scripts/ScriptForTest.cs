@@ -11,6 +11,6 @@ public class ScriptForTest : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		//Added this line for test cloning.
 	}
 }
